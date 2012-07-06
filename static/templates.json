@@ -1,0 +1,6 @@
+[
+        {
+            name:"staff1",
+            template:"<div>{{ name }}</div>"
+        }
+    ]
