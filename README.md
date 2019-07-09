@@ -3,9 +3,11 @@ tornado-websocket-chat
 
 A chat application build on top of tornado python web framework and websocket.
 
-##Setup
+## Setup
 The app depends on [tornado](http://tornadoweb.org) a python web framework
 
-##Runnung
+## Runnung
+
 Open terminal and run
-  python app.py  
+  
+  `$ python app.py`  
